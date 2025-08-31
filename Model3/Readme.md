@@ -1,4 +1,5 @@
 # TabPFN
+You can follow the original GITHUB: https://github.com/PriorLabs/TabPFN.
 
 [![PyPI version](https://badge.fury.io/py/tabpfn.svg)](https://badge.fury.io/py/tabpfn)
 [![Downloads](https://pepy.tech/badge/tabpfn)](https://pepy.tech/project/tabpfn)
